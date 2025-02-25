@@ -1,0 +1,21 @@
+Origin Hospital
+
+Patient ID: 10785 Patient Age: 33 years
+Patient Name: Nipzu GA: 43 weeks 1 day
+Gender : Female BMI: 28
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan

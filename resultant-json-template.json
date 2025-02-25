@@ -1,0 +1,14 @@
+{"dataResources":[{"patient_id":"anonymous-patient-ID",
+                    "gestaional_age":"some-integer",
+                    "demographic_age":"some-integer",
+                    "BMI":"anonymous-patient-ID",
+                    "examination_findings":["findings_1","findings_2"]
+                    },
+                    {"patient_id":"anonymous-patient-ID",
+                    "gestaional_age":"some-integer",
+                    "demographic_age":"some-integer",
+                    "BMI":"anonymous-patient-ID",
+                    "examination_findings":["findings_1","findings_2"]
+                    },...
+                ]
+}

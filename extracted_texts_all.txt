@@ -1,0 +1,1397 @@
+
+
+===== Extracted Text from patient_10785.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 10785 Patient Age: 33 years
+Patient Name: Nipzu GA: 43 weeks 1 day
+Gender : Female BMI: 28
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_14392.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 14392 Patient Age: 35 years
+Patient Name : Wovex GA: 44 weeks 0 days
+Gender : Female BMI: 26
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_15973.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 15973 Patient Age: 34 years
+Patient Name : Dofqu GA: 28 weeks 3 days
+Gender : Female BMI: 24
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_16839.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 16839 Patient Age: 33 years
+Patient Name: Gylxu GA: 42 weeks 2 days
+Gender : Female BMI: 34
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_18453.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 18453 Patient Age: 29 years
+Patient Name: Qexro GA: 42 weeks 5 days
+Gender : Female BMI: 38
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : Choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_19362.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 19362 Patient Age: 40 years
+Patient Name: Veqbo GA: 31 weeks 4 days
+Gender : Female BMI: 37
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_21670.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 21670 Patient Age: 31 years
+Patient Name : Rupxe GA: 35 weeks 3 days
+Gender : Female BMI: 18
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : Choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_23581.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 23581 Patient Age: 27 years
+Gender : Female BMI: 26
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_25106.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 25106 Patient Age: 37 years
+Patient Name: Vinko GA: 39 weeks 2 days
+Gender : Female BMI: 35
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_25879.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 25879 Patient Age: 32 years
+Patient Name: Cekvi GA: 22 weeks 1 day
+Gender : Female BMI: 25
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_26587.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 26587 Patient Age: 27 years
+Patient Name: Gexfu GA: 38 weeks 1 day
+Gender : Female BMI: 22
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : Choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_30218.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 30218 Patient Age: 34 years
+Patient Name: Pizmo GA: 29 weeks 1 day
+Gender : Female BMI: 32
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_30475.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 30475 Patient Age: 31 years
+Patient Name : Bexka GA: 32 weeks 0 days
+Gender : Female BMI: 38
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_32645.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 32645 Patient Age: 31 years
+Patient Name : Lunka GA: 41 weeks 4 days
+Gender : Female BMI: 28
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_34210.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 34210 Patient Age: 39 years
+Patient Name : Lopju GA: 44 weeks 3 days
+Gender : Female BMI: 27
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_38957.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 38957 Patient Age: 23 years
+Patient Name: Vutka GA: 33 weeks 0 days
+Gender : Female BMI: 33
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_40375.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 40375 Patient Age: 38 years
+Patient Name: Vyxlo GA: 34 weeks 0 days
+Gender : Female BMI: 35
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_41973.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 41973 Patient Age: 39 years
+Patient Name: Daxen GA: 34 weeks 5 days
+Gender : Female BMI: 19
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_43218.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 43218 Patient Age: 28 years
+Patient Name: Yenlo GA: 36 weeks 0 days
+Gender : Female BMI: 26
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : Choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_46098.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 46098 Patient Age: 22 years
+Patient Name: Fazpu GA: 40 weeks 5 days
+Gender : Female BMI: 33
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_48729.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 48729 Patient Age: 24 years
+Patient Name: Jaxzi GA: 28 weeks 4 days
+Gender : Female BMI: 29
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_50312.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 50312 Patient Age: 24 years
+Patient Name: Mibsu GA: 41 weeks 2 days
+Gender : Female BMI: 30
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : Choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_51236.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 51236 Patient Age: 25 years
+Patient Name: Mijek GA: 22 weeks 3 days
+Gender : Female BMI: 22
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_54689.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 54689 Patient Age: 30 years
+Patient Name : Qalmo GA: 40 weeks 4 days
+Gender : Female BMI: 37
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_57028.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 57028 Patient Age: 36 years
+Gender : Female BMI: 21
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_58136.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 58136 Patient Age: 26 years
+Patient Name : Kowpu GA: 37 weeks 5 days
+Gender : Female BMI: 30
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_58960.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 58960 Patient Age: 26 years
+Patient Name: Zibtu GA: 23 weeks 6 days
+Gender : Female BMI: 20
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_59680.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 59680 Patient Age: 22 years
+Patient Name: Rylqu GA: 43 weeks 6 days
+Gender : Female BMI: 24
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_63218.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 63218 Patient Age: 30 years
+Patient Name : Qomth GA: 36 weeks 1 day
+Gender : Female BMI: 23
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_63490.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 63490 Patient Age: 24 years
+Patient Name: Tovza GA: 39 weeks 0 days
+Gender : Female BMI: 32
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_67492.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 67492 Patient Age: 36 years
+Patient Name: Tavlo GA: 33 weeks 6 days
+Gender : Female BMI: 30
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_67981.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 67981 Patient Age: 39 years
+Patient Name: Vokja GA: 45 weeks 4 days
+Gender : Female BMI: 21
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain: —Choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_68924.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 68924 Patient Age: 29 years
+Patient Name: Puvri GA: 45 weeks 6 days
+Gender : Female BMI: 31
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_69513.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 69513 Patient Age: 28 years
+Patient Name : Wavdo GA: 25 weeks 3 days
+Gender : Female BMI: 34
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_71025.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 71025 Patient Age: 38 years
+Patient Name :_ Lakpo GA: 23 weeks 0 days
+Gender : Female BMI: 31
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain: —Choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_72854.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 72854 Patient Age: 29 years
+Patient Name : Kufwe GA: 37 weeks 3 days
+Gender : Female BMI: 21
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_74628.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 74628 Patient Age: 30 years
+Patient Name: Jemzi GA: 24 weeks 2 days
+Gender : Female BMI: 20
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: No spina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_76084.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 76084 Patient Age: 23 years
+Patient Name: Hryfq GA: 30 weeks 3 days
+Gender : Female BMI: 18
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_76845.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 76845 Patient Age: 37 years
+Gender : Female BMI: 35
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : Choroid plexus cyst seen
+
+Heart : Normal 4 chamber view
+Spine: — Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_78103.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 78103 Patient Age: 23 years
+Patient Name: Xyklo GA: 26 weeks 1 day
+Gender : Female BMI: 18
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_81726.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 81726 Patient Age: 37 years
+Patient Name : Rijpo GA: 31 weeks 2 days
+Gender : Female BMI: 23
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_82041.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 82041 Patient Age: 25 years
+Patient Name : Zempa GA: 42 weeks 1 day
+Gender : Female BMI: 29
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_84709.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 84709 Patient Age: 32 years
+Patient Name: Nuxiz GA: 38 weeks 0 days
+Gender : Female BMI: 27
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_87346.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 87346 Patient Age: 26 years
+Patient Name: Zikfu GA: 27 weeks 2 days
+Gender : Female BMI: 36
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_87514.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID: 87514 Patient Age: 28 years
+Patient Name : Cjerp GA: 25 weeks 2 days
+Gender : Female BMI: 36
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_90473.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 90473 Patient Age: 27 years
+Patient Name: Yplux GA: 24 weeks 5 days
+Gender : Female BMI: 31
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_92650.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 92650 Patient Age: 35 years
+Patient Name: Hixra GA: 30 weeks 0 days
+Gender : Female BMI: 22
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_93501.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 93501 Patient Age: 38 years
+Patient Name: Xonzi GA: 27 weeks 0 days
+Gender : Female BMI: 25
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_94168.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 94168 Patient Age: 35 years
+Patient Name : Pozni GA: 32 weeks 4 days
+Gender : Female BMI: 24
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain: —Choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: Spina bifida found
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns fetal abnormalities detected in this scan
+
+
+
+===== Extracted Text from patient_95124.pdf =====
+
+
+--- Page 1 ---
+Origin Hospital
+
+Patient ID : 95124 Patient Age: 22 years
+Patient Name : Fojex GA: 26 weeks 6 days
+Gender : Female BMI: 19
+
+Examination Findings
+Head : Normal skull apperance
+
+Brain : No choroid plexus cyst seen
+
+Heart: Normal 4 chamber view
+Spine: —Nospina bifida
+Abdominal wall: Normal
+Urinary tract: Normal
+
+Extremities: Hands and feet appear normal
+
+Conclusion
+
+There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan
+

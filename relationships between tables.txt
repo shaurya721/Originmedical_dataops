@@ -1,0 +1,40 @@
+Relationships between the tables:  
+
+Primary Relationships  
+1.  Patients  is related to:  
+   -  Appointments  (One-to-Many)  :  "PatientID "  
+   -  Ultrasound_Results  (One-to-Many)  :  "PatientID "  
+   -  Medical_History  (One-to-Many)  :  "PatientID "  
+   -  Billing  (One-to-Many)  :  "PatientID "  
+   -  Insurance  (One-to-One)  :  "PatientID "  
+   -  Medications  (One-to-Many)  :  "PatientID "  
+   -  Treatments  (One-to-Many)  :  "PatientID "  
+   -  Referrals  (One-to-Many)  :  "PatientID "  
+   -  Symptoms  (One-to-Many)  :  "PatientID "  
+   -  Diagnosis  (One-to-Many)  :  "PatientID "  
+   -  Follow_Up  (One-to-Many)  :  "PatientID "  
+   -  Reports  (One-to-Many)  :  "PatientID "  
+   -  Lab_Tests  (One-to-Many)  :  "PatientID "  
+
+2.  Appointments  is related to:  
+   -  Patients  (Many-to-One)  :  "PatientID "  
+   -  Doctors  (Many-to-One)  :  "DoctorID "  
+   -  Ultrasound_Results  (One-to-One)  :  "AppointmentID "  
+   -  Billing  (One-to-One)  :  "AppointmentID "  
+   -  Follow_Up  (One-to-One)  :  "AppointmentID "  
+   -  Reports  (One-to-One)  :  "AppointmentID "  
+
+3.  Doctors  is related to:  
+   -  Appointments  (One-to-Many)  :  "DoctorID "  
+   -  Referrals  (One-to-Many)  :  "DoctorID "  
+   -  Departments  (Many-to-One)  :  "DepartmentID "  
+
+4.  Departments  is related to:  
+   -  Doctors  (One-to-Many)  :  "DepartmentID "  
+   -  Machines  (One-to-Many)  :  "DepartmentID "  
+   -  Technicians  (One-to-Many)  :  "DepartmentID "  
+   -  Radiologists  (One-to-Many)  :  "DepartmentID "  
+
+5.  Clinics  has no direct foreign key references but can be linked to patients and doctors.  
+
+📄
